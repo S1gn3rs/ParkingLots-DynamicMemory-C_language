@@ -5,7 +5,7 @@
 ## Introduction
 
 This project is a Parking Management System created for the Introduction
-to Algorithms and Data Structures subject, (2023/2024). The system is designed to manage
+to Algorithms and Data Structures subject. The system is designed to manage
 parking lots, allowing for the definition of parking lots, registration of
 vehicle entries and exits, querying and billing operations.
 
